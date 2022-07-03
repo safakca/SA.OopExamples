@@ -1,0 +1,15 @@
+C:\Users\Casper\Source\Repos\OopExamples\bin\Debug\net6.0\OopExamples.exe
+C:\Users\Casper\Source\Repos\OopExamples\bin\Debug\net6.0\OopExamples.deps.json
+C:\Users\Casper\Source\Repos\OopExamples\bin\Debug\net6.0\OopExamples.runtimeconfig.json
+C:\Users\Casper\Source\Repos\OopExamples\bin\Debug\net6.0\OopExamples.dll
+C:\Users\Casper\Source\Repos\OopExamples\bin\Debug\net6.0\OopExamples.pdb
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.csproj.AssemblyReference.cache
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.AssemblyInfoInputs.cache
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.AssemblyInfo.cs
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.dll
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\refint\OopExamples.dll
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.pdb
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\OopExamples.genruntimeconfig.cache
+C:\Users\Casper\Source\Repos\OopExamples\obj\Debug\net6.0\ref\OopExamples.dll
